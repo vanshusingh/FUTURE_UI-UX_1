@@ -73,7 +73,7 @@ Delight-My-Restaurant-UIUX/
 * Menu Page UI
 * Cart UI (basic)
 
-*(Add Figma preview link or screenshots here)*
+
 
 ---
 
